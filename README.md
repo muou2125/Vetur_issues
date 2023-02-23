@@ -9,6 +9,7 @@ Vetur 版本 v0.37.2
 "vetur.format.defaultFormatter.js": "prettier-eslint"
 
  .vecode/setting.json 配置内容为：
+```
 {
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
@@ -34,3 +35,4 @@ Vetur 版本 v0.37.2
   "vetur.format.defaultFormatter.html": "js-beautify-html",
   "vetur.format.defaultFormatter.js": "prettier-eslint"
 }
+```
